@@ -30,7 +30,7 @@
 }
 .main-con {
   margin-top: 40px;
-  margin-left: 40px;
+  margin-left: 120px;
   display: inline-block;
 }
 .twitter-input {
@@ -59,4 +59,29 @@
 }
 .twitter-button:active {
   opacity: 0.7;
+}
+.google-container {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+
+
+}
+.google-logo{
+  display: block;
+  width: 200px;
+  margin-bottom: 20px;
+  margin-left: 200px;
+}
+.google-search{
+  width: 400px;
+  height: 30px;
+  padding-left: 20px;
+  border-radius: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.346);
+  border: none;
+  margin-left: 85px;
 }
